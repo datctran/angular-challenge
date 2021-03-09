@@ -18,7 +18,9 @@
 
 
 > You don't have to worry about exact size of the elements on the page.
+
 > If you can't make it look exactly like the mock up get as close as you can.
+
 > Notice that we do have Angular Material installed and "Ways in which I like programming" only turns red when the input has been touched first.
 
 
