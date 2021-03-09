@@ -1,7 +1,5 @@
 ## Instructions for form challenge
-
 1. Create a form within the FormComponent
-
 2. Add 2 inputs to the form
   * Numerical input with label "How much I like programming"
   * Textual input with label "Ways in which I like programming"
