@@ -1,21 +1,27 @@
 ## Instructions for form challenge
 
 1. Create a form within the FormComponent
+
 2. Add 2 inputs to the form
-  1. Numerical input with label "How much I like programming"
-  2. Textual input with label "Ways in which I like programming"
+  * Numerical input with label "How much I like programming"
+  * Textual input with label "Ways in which I like programming"
+  
 3. Make the "Ways in which I like programming" input required
+
 4. Create a button in your form
-  1. Make this button disabled when the form is not valid
-  2. Make this button submit the form when clicked
+  * Make this button disabled when the form is not valid
+  * Make this button submit the form when clicked
+
 5. Create a new Angular Service in the same folder as your FormComponent
-  1. Create a new method here that will log the following phrase to the console "Button has been clicked"
-  2. Make sure your new method is called when the form button is clicked
+  * Create a new method here that will log the following phrase to the console "Button has been clicked"
+  * Make sure your new method is called when the form button is clicked
+
 6. Create a new method on your new Angular Service that will log the following phrase to the console "Numerical input has been changed"
-  1. Make sure your new method is called when the "How much I like programming" is changed by the user
+  * Make sure your new method is called when the "How much I like programming" is changed by the user
+
 7. Make the "Forms" component look like the form in "mock up valid.png"/"mock up invalid.png" in the "src/assests" folder. 
-  1. ![mockup1](https://github.com/tjwoods58DL/Angular-Challenge/blob/master/src/assets/mock%20up%20valid.png)
-  2. ![mockup2](https://github.com/tjwoods58DL/Angular-Challenge/blob/master/src/assets/mock%20up%20invalid.png)
+  * ![mockup1](https://github.com/tjwoods58DL/Angular-Challenge/blob/master/src/assets/mock%20up%20valid.png)
+  * ![mockup2](https://github.com/tjwoods58DL/Angular-Challenge/blob/master/src/assets/mock%20up%20invalid.png)
 
 
 > You don't have to worry about exact size of the elements on the page.
