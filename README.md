@@ -15,14 +15,9 @@
 7. Make the "Forms" component look like the form in "mock up valid.png"/"mock up invalid.png" in the "src/assests" folder. 
    * ![mockup1](https://github.com/tjwoods58DL/Angular-Challenge/blob/master/src/assets/mock%20up%20valid.png)
    * ![mockup2](https://github.com/tjwoods58DL/Angular-Challenge/blob/master/src/assets/mock%20up%20invalid.png)
-
-
-> You don't have to worry about exact size of the elements on the page.
-
-> If you can't make it look exactly like the mock up get as close as you can.
-
-> Notice that we do have Angular Material installed and "Ways in which I like programming" only turns red when the input has been touched first.
-
+   * You don't have to worry about exact size of the elements on the page.
+   * If you can't make it look exactly like the mock up get as close as you can.
+   * Notice that we do have Angular Material installed and "Ways in which I like programming" only turns red when the input has been touched first.
 
 ## Instructions for debug challenge
 
