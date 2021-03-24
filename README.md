@@ -13,8 +13,8 @@
 6. Create a new method on your new Angular Service that will log the following phrase to the console "Numerical input has been changed"
    * Make sure your new method is called when the "How much I like programming" is changed by the user
 7. Make the "Forms" component look like the form in "mock up valid.png"/"mock up invalid.png" in the "src/assests" folder. 
-   * ![mockup1](https://github.com/tjwoods58DL/Angular-Challenge/blob/master/src/assets/mock%20up%20valid.png)
-   * ![mockup2](https://github.com/tjwoods58DL/Angular-Challenge/blob/master/src/assets/mock%20up%20invalid.png)
+   * ![mockup1](/assets/mock%20up%20valid.png)
+   * ![mockup2](/assets/mock%20up%20invalid.png)
    * You don't have to worry about exact size of the elements on the page.
    * If you can't make it look exactly like the mock up get as close as you can.
    * Notice that we do have Angular Material installed and "Ways in which I like programming" only turns red when the input has been touched first.
